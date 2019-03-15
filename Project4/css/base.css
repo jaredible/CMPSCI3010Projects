@@ -1,0 +1,55 @@
+#header {
+    height: 60px;
+    color: #FFF;
+    font-size: 2em;
+    background-image: url("../images/image0.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #CCC;
+}
+
+#wrapper {
+}
+
+#menu {
+    background-color: #222;
+}
+
+#content {
+    padding: 15px 15px;
+    background-color: #EEE;
+}
+
+#footer {
+    background-image: url("../images/image0.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #CCC;
+}
+
+#footer h5 {
+    color: #FFF;
+}
+
+#footer a {
+    color: #DDD;
+}
+
+#footer a:hover {
+    color: #999;
+    text-decoration: none;
+}
+
+#copyright {
+    color: #CCC;
+}
+
+@media (max-width: 576px) {
+    #v-pills-tab {
+        text-align: center;
+    }
+}
+
+.error {
+    color: #F00;
+}
